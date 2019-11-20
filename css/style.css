@@ -1,0 +1,109 @@
+/* Fonts Start
+
+font-family: 'Questrial', sans-serif;
+font-family: 'Montserrat', sans-serif;
+
+ Fonts End */
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Questrial', sans-serif;
+    
+}
+
+/* Header Start */
+
+.nav-height{
+    margin: 10px 0px;
+}
+
+.menu{}
+.menu li{
+    margin-right: 15px !important;
+}
+.menu li a{
+    color: #707070 !important;
+    transition: 0.3s;
+}
+
+.menu li a:hover{
+    color: white !important;;
+    background-color: #FF5672;
+    
+}
+
+
+
+/* Header End */
+
+/* Banner Start */
+
+.banner_title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: 6px;
+    margin-bottom: 45px;
+}
+
+.banner_btn{
+    color: #FC758C;
+    background-color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.carousel_custom{
+    top: 230px;
+}
+
+
+.car_pad{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+/* Banner End */
+
+/* Portfolio Start */
+
+.portfolio{
+    margin-top: 100px;
+}
+
+.port-filter{
+    color: #7A7A7A;
+    font-size: 18px;
+    border: none;
+    background: none;
+    transition: 0.5s;
+
+}
+
+.port-filter:hover{
+    color: white;
+    border: #FF5672;
+    background: #FF5672;
+}
+
+
+/* Portfolio End */
+
+/* Footer Start */
+.footer{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.social i{
+    font-size: 20px;
+    color: #C2CFD7;
+    transition: 0.3s;
+}
+
+.social i:hover{
+    color: #FF5773;
+}
+
+
+/* Footer End */
